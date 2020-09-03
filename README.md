@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, I'm Kyle (🌈 he/him/his)
+
+I work on the developer platform team in Microsoft Office Engineering.
+
+- 🔭 I’m currently building tools to empower thousands of developers to work in mono git repositories with [Scalar](https://devblogs.microsoft.com/devops/introducing-scalar/). 
+- 💬 Ask me about: Electric Motorcycles
+- 📫 How to reach me: kylewrader@gmail.com
 
 <!--
-**kyle-rader/kyle-rader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him.his
+- ⚡ Fun fact: 
 -->
+
+
+
