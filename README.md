@@ -1,13 +1,14 @@
 ## Hi, I'm Kyle (🌈 he/him/his)
 
-I work on the developer platform team in Microsoft Office Engineering.
-
-- 🔭 I’m currently building tools to empower thousands of developers to work in mono git repositories with [Scalar](https://devblogs.microsoft.com/devops/introducing-scalar/). 
+- 🔭 I’m currently building developer tools to improve the lives of developers at Microsoft and beyond. 
 - 💬 Ask me about: Electric Motorcycles, TDD, and Dotnet Core (or 5)
 - 📫 How to reach me: kylewrader@gmail.com
 
 ## 🚀 Recent project: [breach](https://github.com/kyle-rader/breach)
 A puzzle solver for the Cyberpunk 2077 breach mini-game.
+
+## Do Not Contact me About Employmenmt Opportunities or anything related to Blockchain or NFTs.
+I am not looking for a new job. Do not contact me about jobs.
 
 <!--
 - 🌱 I’m currently learning 
@@ -16,6 +17,3 @@ A puzzle solver for the Cyberpunk 2077 breach mini-game.
 - 😄 Pronouns: he/him.his
 - ⚡ Fun fact: 
 -->
-
-
-
