@@ -10,7 +10,7 @@ It's AOC time again. That means it's time to practice writing clean, TDD'd, sust
 ## 🚀 Recent project: [breach](https://github.com/kyle-rader/breach)
 A puzzle solver for the Cyberpunk 2077 breach mini-game.
 
-## Do Not Contact me About Employmenmt Opportunities or anything related to Blockchain or NFTs.
+## Do Not Contact me About Employment Opportunities or anything related to Blockchain or NFTs.
 I am not looking for a new job. Do not contact me about jobs.
 
 <!--
