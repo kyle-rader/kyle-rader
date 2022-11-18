@@ -8,7 +8,9 @@
     * 🏡 Working from home
     * 🥾 hiking, 🎮 video games, 🍷 wine, and more.
 - 🌱 I’m currently learning [🦀 Rust](https://www.rust-lang.org/)
+- <a rel="me" href="https://hachyderm.io/@mcyamaha">🐘 Mastodon `@mcyamaha@hachyderm.io`</a>
 
 ### ⚠️ Do Not Contact me About:
 * Employment Opportunities
 * BlockChain and NFTs
+
