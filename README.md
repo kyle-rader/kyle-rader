@@ -7,7 +7,7 @@
 ## Projects
 - [Automata Games](https://automata.games) - early stage realtime game application
 
-### ⚠️ Do Not Contact me About:
+## ⚠️ Do Not Contact me for
 * Employment Opportunities
 * BlockChain and NFTs
 
