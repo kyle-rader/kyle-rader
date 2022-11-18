@@ -1,14 +1,11 @@
 ## Hi, I'm Kyle (🌈 he/him/his)
 
-- 🔭 I’m currently building developer tools to improve the lives of developers at Microsoft and beyond.
-- 👀 I'm into:
-    * 🚗 Electric Cars and 🏍️ Motorcycles
-    * 🔬 Test Driven Development (TDD)
-    * 🦀 Rust, C#, Ruby, Python
-    * 🏡 Working from home
-    * 🥾 hiking, 🎮 video games, 🍷 wine, and more.
+- 🔭 Building developer tools to improve the lives of developers at Microsoft and beyond.
 - 🌱 I’m currently learning [🦀 Rust](https://www.rust-lang.org/)
-- Find me on <a href="https://hachyderm.io/@mcyamaha">`Mastodon`</a>
+- 🐘 Find me on <a href="https://hachyderm.io/@mcyamaha">`Mastodon`</a>
+
+## Projects
+- [Automata Games](https://automata.games) - early stage realtime game application
 
 ### ⚠️ Do Not Contact me About:
 * Employment Opportunities
