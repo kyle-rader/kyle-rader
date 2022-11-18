@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [🦀 Rust](https://www.rust-lang.org/)
 - 🐘 Find me on <a href="https://hachyderm.io/@mcyamaha">`Mastodon`</a>
 
-## Projects
+## ⚒️ Projects
 - [Automata Games](https://automata.games) - early stage realtime game application
 
 ## ⚠️ Do Not Contact me for
