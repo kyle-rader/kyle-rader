@@ -1,7 +1,7 @@
 ## Hi, I'm Kyle (🌈 he/him/his)
 
 - 🔭 Building developer tools to improve the lives of developers at Microsoft and beyond.
-- 🌱 I’m currently learning [🦀 Rust](https://www.rust-lang.org/)
+- 🌱 I’m currently learning [🦀 Rust](https://www.rust-lang.org/) & [<img width=15 src="https://elixir-lang.org/favicon.ico"/> Elixir!](https://elixir-lang.org/)
 - 🐘 Find me on <a href="https://hachyderm.io/@mcyamaha">`Mastodon`</a>
 
 ## ⚒️ Projects
