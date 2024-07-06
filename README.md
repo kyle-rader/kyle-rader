@@ -1,13 +1,16 @@
 ## Hi, I'm Kyle (🌈 he/him/his)
 
-- 🔭 Building developer tools to improve the lives of developers at Microsoft and beyond.
-- 🌱 I’m currently learning [🦀 Rust](https://www.rust-lang.org/) & [<img width=15 src="https://elixir-lang.org/favicon.ico"/> Elixir!](https://elixir-lang.org/)
+- 🔭 Learning and building [🦀 Rust](https://www.rust-lang.org/) at Microsoft and beyond.
 - 🐘 Find me on <a href="https://hachyderm.io/@mcyamaha">`Mastodon`</a>
 
 ## ⚒️ Projects
-- [Automata Games](https://automata.games) - early stage realtime game application
+- - 🌱 I’m currently learning [tokio/axum-rs](https://github.com/tokio-rs/axum) figuring out how to build fast real time web applications.
 
-## ⚠️ Do Not Contact me for
-* Employment Opportunities
-* BlockChain and NFTs
+## 📵 I'd prefer if you did not contact me for
+* Jobs
+* Anything Blockchain
+* Anything NFT
+* Anything FinTech
+* Anything you describe as *"Disrupting the Market"*
 
+👋 Cheers!
